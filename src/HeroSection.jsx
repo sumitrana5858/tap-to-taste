@@ -13,7 +13,7 @@ const HeroSection = () => {
         <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
           Enhance Guest
           <br className="hidden sm:block" />
-          Experience with 
+          Experience with 5years in this field
           <br className="hidden sm:block" />
           <span className="text-gray-800">Technology with me</span>
         </h1>
